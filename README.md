@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## Bem Vindo ao meu Perfil
 
+https://br.images.search.yahoo.com/images/view;_ylt=AwrigtNfcGZllt4FRQ316Qt.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzkzYmQ5MWVjYzJlMjFmODQxYjE1OWZiMDlmYTljNTY1BGdwb3MDNzYEaXQDYmluZw--?back=https%3A%2F%2Fbr.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dcapa%2Bpara%2Bgithub%2Banimada%2Bgif%26ei%3DUTF-8%26type%3DE210BR91199G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26nost%3D1%26tab%3Dorganic%26ri%3D76&w=498&h=278&imgurl=res.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--_AGrXPbv--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880%2Fhttps%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--sNXjzc6P--%2Fc_limit%25252Cf_auto%25252Cfl_progressive%25252Cq_66%25252Cw_880%2Fhttps%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%25253Fitemid%25253D15828752&rurl=https%3A%2F%2Fdev.to%2Ftupaschoal%2Fcomo-criar-um-perfil-incrivel-no-github-2k5f&size=1423.9KB&p=capa+para+github+animada+gif&oid=93bd91ecc2e21f841b159fb09fa9c565&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=Como+criar+um+perfil+incr%C3%ADvel+no+GitHub%3F+-+DEV+Community&b=61&ni=140&no=76&ts=&tab=organic&sigr=rWUbAUjd87o0&sigb=IwRNj1wWnHxA&sigi=T3lt0OVMteXM&sigt=Djy8SrVWdZGM&.crumb=WQ1YEz3Sf6Q&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210BR91199G0
 👨‍🎓 ADS
 
 - 🔭 I’m currently working on ...
